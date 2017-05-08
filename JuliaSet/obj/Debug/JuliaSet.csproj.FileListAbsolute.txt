@@ -1,0 +1,9 @@
+C:\Programs\GraphicsStuff\JuliaSet\bin\Debug\JuliaSet.exe.config
+C:\Programs\GraphicsStuff\JuliaSet\obj\Debug\JuliaSet.MainForm.resources
+C:\Programs\GraphicsStuff\JuliaSet\obj\Debug\JuliaSet.Properties.Resources.resources
+C:\Programs\GraphicsStuff\JuliaSet\obj\Debug\JuliaSet.csproj.GenerateResource.Cache
+C:\Programs\GraphicsStuff\JuliaSet\bin\Debug\JuliaSet.exe
+C:\Programs\GraphicsStuff\JuliaSet\bin\Debug\JuliaSet.pdb
+C:\Programs\GraphicsStuff\JuliaSet\obj\Debug\JuliaSet.exe
+C:\Programs\GraphicsStuff\JuliaSet\obj\Debug\JuliaSet.pdb
+C:\Programs\GraphicsStuff\JuliaSet\obj\Debug\JuliaSet.csprojResolveAssemblyReference.cache

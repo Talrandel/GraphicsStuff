@@ -1,0 +1,9 @@
+C:\Programs\GraphicsStuff\MandelbrotSet\bin\Debug\MandelbrotSet.exe.config
+C:\Programs\GraphicsStuff\MandelbrotSet\bin\Debug\MandelbrotSet.exe
+C:\Programs\GraphicsStuff\MandelbrotSet\bin\Debug\MandelbrotSet.pdb
+C:\Programs\GraphicsStuff\MandelbrotSet\obj\Debug\MandelbrotSet.csprojResolveAssemblyReference.cache
+C:\Programs\GraphicsStuff\MandelbrotSet\obj\Debug\MandelbrotSet.MainForm.resources
+C:\Programs\GraphicsStuff\MandelbrotSet\obj\Debug\MandelbrotSet.Properties.Resources.resources
+C:\Programs\GraphicsStuff\MandelbrotSet\obj\Debug\MandelbrotSet.csproj.GenerateResource.Cache
+C:\Programs\GraphicsStuff\MandelbrotSet\obj\Debug\MandelbrotSet.exe
+C:\Programs\GraphicsStuff\MandelbrotSet\obj\Debug\MandelbrotSet.pdb
